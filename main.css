@@ -93,7 +93,7 @@ input {
 	height: 25px;
 	border: 1px solid #b5b5b5;
 	margin: 12px;
-	background-image: url("/mydrive/websites/google-clone/images/microphone.png");
+	background-image: url("images/microphone.png");
 	background-position: 470px 1px;
 	background-size: 25px auto;
 	background-repeat: no-repeat;
